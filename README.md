@@ -2,8 +2,9 @@
 
 About Dataset:
 
-Columns:
+This dataset, sourced from Investing.com, provides a detailed record of Bitcoin's daily price movements. Capturing key metrics such as opening, closing, high, low prices, and trading volume, the dataset spans from July 18, 2010, to February 9, 2024. It offers a comprehensive view of Bitcoin's market behavior, allowing researchers, analysts, and enthusiasts to delve into historical trends, patterns, and fluctuations.
 
+Columns:
 Date: Date of the recorded data
 
 Price: Closing price of Bitcoin on the given date
